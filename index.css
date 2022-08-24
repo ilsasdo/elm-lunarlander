@@ -1,0 +1,28 @@
+.view {
+  background-color: black;
+}
+
+.spaceship {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red white white white;
+  position: absolute;
+}
+
+.info {
+  text-align: right;
+  color: white;
+  font-family: monospace;
+}
+
+.info p {
+  margin: 0;
+}
+
+.landing-area {
+  height: 1px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: white;
+  position: absolute;
+}
