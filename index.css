@@ -1,3 +1,8 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+
 .view {
   background-color: black;
 }
@@ -13,6 +18,9 @@
   text-align: right;
   color: white;
   font-family: monospace;
+  position: absolute;
+  top: 10px;
+  right: 10px;
 }
 
 .info p {
